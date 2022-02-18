@@ -4,7 +4,7 @@ function lohClick(){
 	alert("---------> Loh <--------- \nCHECK CONSOLE")
 	let a = "Ty vseodno loh"
 	let b = "______________"
-	num = 9
+	num = 99999999999999999
 	for (var i = 0; i <= num; i++) {
 		i++
 		console.log(a)
